@@ -1,13 +1,10 @@
 # Deep-Music-player-terms-and-conditions
 The Terms and conditions for Deep Music Player
 
-Certainly, here's a sample privacy policy for your music player app based on the information provided during our conversation. Please keep in mind that this is a generic template, and you should consider consulting with a legal professional to ensure your privacy policy complies with all applicable laws and regulations:
 
----
+**Privacy Policy for Deep Music Player**
 
-**Privacy Policy for [Your Music Player App Name]**
-
-Effective Date: [Date]
+Effective Date: 01/October/2023
 
 ### Introduction
 
